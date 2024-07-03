@@ -1,4 +1,4 @@
-# Excel-Class-Project
+# Excel-Project
 JIT SOLUTIONS SALES DASHBOARD
 
 ## Dashboard Overview
